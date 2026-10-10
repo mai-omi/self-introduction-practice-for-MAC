@@ -8,7 +8,6 @@ COACHTECH 教材 Tutorial 5-1「HTMLの基礎 ハンズオン演習」で作成�
 ## 使用技術
 
 - HTML5
-- Docker
 - Git/GitHub
 
 ## 学んだこと
